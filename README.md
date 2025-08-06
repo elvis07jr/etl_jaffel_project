@@ -69,4 +69,3 @@ ORDER BY
 ## Dashboard Examples
 
 The Jupyter notebook in the `notebooks/` directory contains examples of how to query the final tables and visualize the results.
-# etl_jaffel_project
